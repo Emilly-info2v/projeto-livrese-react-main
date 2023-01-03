@@ -1,0 +1,16 @@
+.up{
+    margin: 5px;
+    background: #1c2237;
+    padding: 8px 16px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #d3650b;
+    color: #fff;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.up:hover {
+    background-color: #d3650b;
+    color: white;
+    border: 1px solid #d3650b;
+}

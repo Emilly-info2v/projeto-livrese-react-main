@@ -1,0 +1,12 @@
+.section-parcerias{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background: yellow;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+  align-items: center;  
+}

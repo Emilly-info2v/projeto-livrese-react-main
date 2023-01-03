@@ -1,0 +1,16 @@
+.in{
+    margin: 5px;
+    background: #d3650b;
+    padding: 8px 16px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #d3650b;
+    color: #fff;
+    cursor: pointer;
+    white-space: nowrap;
+}
+button:hover {
+    border: 1px solid white;
+    background-color: #1c2237;
+    color: white;
+}
